@@ -1,4 +1,4 @@
-# Escáner de Puertos TCP — Práctica Seguridad Informática
+# Escáner de Puertos TCP - Práctica Seguridad Informática
 
 ## Descripción
 Aplicación desarrollada en Python que realiza escaneo de puertos TCP sobre una dirección IP definida por el usuario. Identifica puertos abiertos y presenta un resumen al finalizar.
