@@ -24,9 +24,13 @@ Este programa fue desarrollado con fines educativos, por la cual se ejecutó ún
 - IP dinámica asignada al dispositivo por la red local: No se encontraron puertos abiertos
 - Router propio de la red doméstica: 
     Se encontraron 4 puertos abiertos;
-       Puerto 21 - ABIERTo
-       Puerto 23 - ABIERTO  
+  
+       Puerto 21 - ABIERTO;
+  
+       Puerto 23 - ABIERTO
+   
        Puerto 53 - ABIERTO
+  
        Puerto 80 - ABIERTO
 
 No se realizaron escaneos sobre redes, dispositivos o direcciones IP ajenas o sin autorización.
