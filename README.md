@@ -22,10 +22,11 @@ Aplicación desarrollada en Python que realiza escaneo de puertos TCP sobre una 
 Este programa fue desarrollado con fines educativos, por la cual se ejecutó únicamente sobre:
 - Equipo propio: `127.0.0.1` (localhost): Se encontraron 0 puertos abiertos en el rango especificado
 - IP dinámica asignada al dispositivo por la red local: No se encontraron puertos abiertos
-- Router propio de la red doméstica: 
+- Router propio de la red doméstica:
+  
     Se encontraron 4 puertos abiertos;
   
-       Puerto 21 - ABIERTO;
+       Puerto 21 - ABIERTO
   
        Puerto 23 - ABIERTO
    
