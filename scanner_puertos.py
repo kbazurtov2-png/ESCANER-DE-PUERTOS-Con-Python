@@ -1,20 +1,20 @@
-ESCÁNER DE PUERTOS DE RED
-Universidad Estatal de Milagro (UNEMI) Grupo #10
+#ESCÁNER DE PUERTOS DE RED
+#Universidad Estatal de Milagro (UNEMI) Grupo #10
 
-INTEGRANTES:
-Añasco Espinoza Darío Franco
-Arias Escobar Genaro Israel
-Bazurto Velez Kevin Ariel
-Castro Escobar Milly Crisol
-Cobo Ordoñez José Rodolfo
-Cárdenas Toala Ximena Gabriela
-Guamán Vasconez Rolando Alexander
+#INTEGRANTES:
+#Añasco Espinoza Darío Franco
+#Arias Escobar Genaro Israel
+#Bazurto Velez Kevin Ariel
+#Castro Escobar Milly Crisol
+#Cobo Ordoñez José Rodolfo
+#Cárdenas Toala Ximena Gabriela
+#Guamán Vasconez Rolando Alexander
 
-Descripción:
-    Programa de consola que verifica qué puertos TCP se
-    encuentran abiertos en un equipo dentro de un rango
-    definido por el usuario.
----------------------------------------------------------
+#Descripción:
+#    Programa de consola que verifica qué puertos TCP se
+#    encuentran abiertos en un equipo dentro de un rango
+#    definido por el usuario.
+#---------------------------------------------------------
         
 import socket
 from datetime import datetime
