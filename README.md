@@ -17,7 +17,7 @@ Aplicación desarrollada en Python que realiza escaneo de puertos TCP sobre una 
 - Lenguaje: Python 3.14.6
 - Biblioteca estándar: `socket`
 - Entorno de desarrollo: Visual Studio Code
-
+- Plataforma de trabajo colaborativo: GitHub
 ## Uso responsable
 Este programa fue desarrollado con fines educativos, por la cual se ejecutó únicamente sobre:
 - Equipo propio: `127.0.0.1` (localhost): Se encontraron 0 puertos abiertos en el rango especificado
