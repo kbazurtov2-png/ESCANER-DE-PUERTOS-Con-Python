@@ -9,9 +9,9 @@ Aplicación desarrollada en Python que realiza escaneo de puertos TCP sobre una 
 - Asignatura: Seguridad Informática
 
 ## Contenido del repositorio
-- `scanner_puertos.py` — Código fuente de la aplicación
-- `MANUAL_USO.md` — Guía paso a paso de uso
-- `README.md` — Información general del proyecto
+- `scanner_puertos.py`- Código fuente de la aplicación
+- `MANUAL_USO.md` - Guía paso a paso de uso
+- `README.md` - Información general del proyecto
 
 ## Tecnologías utilizadas
 - Lenguaje: Python 3.14.6
